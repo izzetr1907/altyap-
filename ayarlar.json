@@ -1,6 +1,7 @@
-
 {
-  "prefix": "PREFİX",
-  "sahip": "SAHİP",
-  "token": "BOT TOKENİ"
+  "prefix": "!",
+  "sahip": "sahipİD",
+  "token": "Token"
 }
+
+
